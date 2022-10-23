@@ -1,0 +1,12 @@
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\obj\Debug\Tema.csproj.AssemblyReference.cache
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\obj\Debug\Tema.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\Tema.exe.config
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\Tema.exe
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\Tema.pdb
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\OpenTK.dll
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\OpenTK.GLControl.dll
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\OpenTK.xml
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\bin\Debug\OpenTK.GLControl.xml
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\obj\Debug\Tema.csproj.CopyComplete
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\obj\Debug\Tema.exe
+D:\FACULTATE\ANUL 3\SEMESTRUL 1\EGC\LABORATOR\Baesu\Baesu\Tema\obj\Debug\Tema.pdb
